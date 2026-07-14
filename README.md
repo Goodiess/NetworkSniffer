@@ -1,4 +1,4 @@
-# Basic Network Sniffer — CodeAlpha Cybersecurity Internship (Task 1)
+# Basic Network Sniffer —Cybersecurity Internship (Task 1)
 
 **Author:** Raphael Goodness Ngene (Goodies)  
 **Internship:** CodeAlpha Cybersecurity Internship  
